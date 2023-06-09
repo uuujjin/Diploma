@@ -818,4 +818,27 @@ Ethernet/IP позволяет устройствам в сети эффекти
 В целом, разработанный модуль для работы с протоколом Ethernet/IP представляет собой значимый вклад в область автоматизации производства. Он обеспечивает интеграцию и эффективное взаимодействие между управляющей программой и оборудованием, а также повышает скорость передачи данных и обеспечивает функции контроля и мониторинга производственных процессов. Разработанный модуль имеет потенциал для применения в широком спектре промышленных секторов, обеспечивая надежное и гибкое управление производством.
 
 # СПИСОК СОКРАЩЕНИЙ
-
+АСУ К - автоматизированная система управления качеством.
+АСУ П - автоматизированная система управления производством.
+АСУ ТП - автоматизированная система управления технологическим процессом.
+ПЛК - программируемый логический контроллер.
+ПО - программное обеспечение.
+CAN - Controller Area Network.
+CIP - Common Industrial Protocol.
+CSMA/CA - Carrier Sense Multiple Access with Collision Avoidance.
+CSMA/CD - Carrier Sense Multiple Access with Collision Detection.
+DCS - Distributed Control System.
+HMI - Human-Machine Interface.
+IoT - Internet of Things.
+IP - Internet Protocol.
+LOC - Lines of Code.
+MES - Manufacturing Execution System.
+OSI - Open Systems Interconnection.
+PAC - Programmable Automation Controller.
+PLC - Programmable Logic Controller.
+PTT - Push To Talk.
+SCADA - Supervisory Control and Data Acquisition.
+TCP/IP - Transmission Control Protocol/Internet Protocol.
+TCP - Transmission Control Protocol.
+TDMA - Time Division Multiple Access.
+UDP - User Datagram Protocol.
